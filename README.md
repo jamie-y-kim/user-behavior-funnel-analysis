@@ -1,4 +1,4 @@
-# Marketing Funnel Analysis
+# User Behavior Funnel Analysis
 
 ## Objective
 Analyze user behavior across the marketing funnel to identify drop-off points and improve conversion performance.
