@@ -7,7 +7,7 @@ This project analyzes event-level user behavior data to identify drop-off points
 
 ## Visualization
 
-<img width="640" height="480" alt="funnel_chart" src="https://github.com/user-attachments/assets/99b0f2bd-6522-4e7a-ad05-5d6a9df35b97" />
+![Funnel Chart](funnel_chart.png)
 
 
 ---
